@@ -1,0 +1,10 @@
+## Dockerized Website Project
+
+Built a custom Docker image using Nginx.
+
+Skills demonstrated:
+- Dockerfile creation
+- Image building
+- Container deployment
+- Port mapping
+- Static website hosting
